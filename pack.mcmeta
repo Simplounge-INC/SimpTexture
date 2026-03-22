@@ -4,13 +4,13 @@
     "description": [
       "",
       {
-        "text": "Custom Rank Pack",
+        "text": "Simplounge",
         "bold": true,
-        "color": "#E54040"
+        "color": "#c72bed"
       },
       {
-        "text": " made for 1.21.x",
-        "color": "#E54040"
+        "text": " made for 1.21.11",
+        "color": "#ca1070"
       },
       {
         "text": "\n"
@@ -20,8 +20,8 @@
         "color": "#f7d200"
       },
       {
-        "text": " Your Name!",
-        "color": "#4068E5"
+        "text": " Qaschen",
+        "color": "#FFFFFF"
       }
     ],
     "supported_formats": {
