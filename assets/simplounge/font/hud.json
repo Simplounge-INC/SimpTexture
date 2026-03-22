@@ -10,8 +10,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/hud_backdrop.png",
-      "ascent": -21,
-      "height": 13,
+      "ascent": -22,
+      "height": 9,
       "chars": ["\uE800"]
     },
     {
