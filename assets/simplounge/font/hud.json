@@ -4,14 +4,14 @@
       "type": "space",
       "advances": {
         " ": 4,
-        "\uE801": -42
+        "\uE801": -48
       }
     },
     {
       "type": "bitmap",
-      "file": "minecraft:simplounge/font/hud_backdrop.png",
-      "ascent": -22,
-      "height": 9,
+      "file": "minecraft:simplounge/font/coin_hud_backdrop.png",
+      "ascent": -21,
+      "height": 14,
       "chars": ["\uE800"]
     },
     {
@@ -22,13 +22,6 @@
       "chars": [
         "\u2081\u2082\u2083\u2084\u2085\u2086\u2087\u2088\u2089\u2080.\u1D0B\u1D0D\u0299"
       ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:simplounge/icons/coin.png",
-      "ascent": -22,
-      "height": 10,
-      "chars": ["\uE804"]
     }
   ]
 }
