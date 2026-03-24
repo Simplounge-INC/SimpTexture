@@ -110,25 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:simplounge/images/selector/club_games.png",
-      "ascent": 20,
-      "height": 20,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:simplounge/images/selector/club_party.png",
-      "ascent": 20,
-      "height": 20,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:simplounge/images/selector/spring_event.png",
+      "file": "minecraft:simplounge/images/selector/event.png",
       "ascent": 40,
       "height": 120,
       "chars": [
