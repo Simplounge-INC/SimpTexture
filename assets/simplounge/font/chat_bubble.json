@@ -3,14 +3,14 @@
     {
       "type": "space",
       "advances": {
-        "\uE901": -116
+        "\uE901": -58
       }
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/chat_bubble.png",
-      "ascent": 16,
-      "height": 26,
+      "ascent": 8,
+      "height": 13,
       "chars": ["\uE900"]
     }
   ]
