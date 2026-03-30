@@ -1,5 +1,5 @@
 {
-  "menu.game": "",
-  "menu.disconnect": " ",
+  "menu.returnToGame": "",
+  "menu.disconnect": "",
   "container.inventory": " "
 }

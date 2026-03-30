@@ -321,6 +321,33 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:simplounge/images/exit_logo.png",
+      "ascent": 113,
+      "height": 120,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:simplounge/images/exit_card.png",
+      "ascent": -5,
+      "height": 121,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:simplounge/images/exit_spacer.png",
+      "height": -209,
+      "ascent": -10000,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "": -8,
