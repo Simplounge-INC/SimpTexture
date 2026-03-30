@@ -509,21 +509,51 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:simplounge/images/exit_logo.png",
+      "file": "minecraft:simplounge/images/esc_logo.png",
       "ascent": 32,
       "height": 64,
       "chars": [
-        ""
+        ""
       ]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:simplounge/images/exit_card.png",
+      "file": "minecraft:simplounge/images/esc_split.png",
+      "ascent": -32768,
+      "height": -3,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:simplounge/images/esc_portrait.png",
       "ascent": -12,
       "height": 50,
       "chars": [
-        ""
+        ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:simplounge/images/esc_text.png",
+      "ascent": -12,
+      "height": 50,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "": -4,
+        "": -1,
+        "": -140,
+        "": -8,
+        "": 1,
+        "": -202,
+        "": 140
+      }
     },
     {
       "type": "reference",
