@@ -558,85 +558,85 @@
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_1_left.png",
-      "ascent": 9,
-      "height": 13,
+      "ascent": 11,
+      "height": 17,
       "chars": ["\uEC00"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_1_middle.png",
-      "ascent": 9,
-      "height": 13,
+      "ascent": 11,
+      "height": 17,
       "chars": ["\uEC01"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_1_right.png",
-      "ascent": 9,
-      "height": 13,
+      "ascent": 11,
+      "height": 17,
       "chars": ["\uEC02"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_1_tail.png",
-      "ascent": 9,
-      "height": 13,
+      "ascent": 11,
+      "height": 17,
       "chars": ["\uEC03"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_2_left.png",
-      "ascent": 19,
-      "height": 23,
+      "ascent": 21,
+      "height": 27,
       "chars": ["\uEC10"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_2_middle.png",
-      "ascent": 19,
-      "height": 23,
+      "ascent": 21,
+      "height": 27,
       "chars": ["\uEC11"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_2_right.png",
-      "ascent": 19,
-      "height": 23,
+      "ascent": 21,
+      "height": 27,
       "chars": ["\uEC12"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_2_tail.png",
-      "ascent": 19,
-      "height": 23,
+      "ascent": 21,
+      "height": 27,
       "chars": ["\uEC13"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_3_left.png",
-      "ascent": 29,
-      "height": 33,
+      "ascent": 31,
+      "height": 37,
       "chars": ["\uEC20"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_3_middle.png",
-      "ascent": 29,
-      "height": 33,
+      "ascent": 31,
+      "height": 37,
       "chars": ["\uEC21"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_3_right.png",
-      "ascent": 29,
-      "height": 33,
+      "ascent": 31,
+      "height": 37,
       "chars": ["\uEC22"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:simplounge/font/bubble/chat_3_tail.png",
-      "ascent": 29,
-      "height": 33,
+      "ascent": 31,
+      "height": 37,
       "chars": ["\uEC23"]
     },
     {
