@@ -18,7 +18,7 @@ jobs:
           python3 -c "
           import zipfile, os
 
-          zip_path = 'simplounge-pack.zip'
+          zip_path = 'clubtopia-pack.zip'
           skip_dirs = {'.git', '.github'}
           skip_ext = {'.psd'}
 
@@ -47,7 +47,7 @@ jobs:
 
       - name: Compute SHA1
         run: |
-          sha1sum simplounge-pack.zip | cut -d' ' -f1 > sha1.txt
+          sha1sum clubtopia-pack.zip | cut -d' ' -f1 > sha1.txt
           echo "SHA1: $(cat sha1.txt)"
 
       - name: Delete existing latest release
@@ -62,7 +62,7 @@ jobs:
           gh release create latest \
             --title "Latest Resource Pack" \
             --notes "Auto-built from $(git rev-parse --short HEAD) on $(date -u +%Y-%m-%d)" \
-            simplounge-pack.zip \
+            clubtopia-pack.zip \
             sha1.txt
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
