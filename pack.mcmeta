@@ -5,23 +5,15 @@
       "",
       {
         "text": "Clubtopia",
-        "bold": true,
         "color": "#c72bed"
       },
       {
-        "text": " made for 1.21.11",
-        "color": "#ca1070"
+        "text": "┃",
+        "color": "#404040"
       },
       {
-        "text": "\n"
-      },
-      {
-        "text": "Created by",
-        "color": "#f7d200"
-      },
-      {
-        "text": " Qaschen",
-        "color": "#FFFFFF"
+        "text": " /help",
+        "color": "#00d0ff"
       }
     ],
     "supported_formats": {
