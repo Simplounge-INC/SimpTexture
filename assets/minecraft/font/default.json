@@ -497,7 +497,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:clubtopia/ranks/ranktitles.png",
+      "file": "minecraft:clubtopia/titles/ranktitles.png",
       "ascent": 7,
       "height": 7,
       "chars": [
