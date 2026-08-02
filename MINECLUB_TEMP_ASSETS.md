@@ -3,9 +3,9 @@
 Used with permission from the Mineclub administration for development only.
 Condition: must be removed/replaced before public release.
 
-Files (all under assets/clubtopia/textures/tmp_mineclub/):
-- ttt_banner.png            (from tabletop/banner.png, bottom banner)
-- ttt_{tile,x,o}_{tl,tr,bl,br}.png  (from tabletop/pieces.png)
+Files (prefixed tmp_mc_ in the standard texture folders):
+- assets/clubtopia/textures/titles/tmp_mc_ttt_banner.png  (from tabletop/banner.png, bottom banner)
+- assets/clubtopia/textures/block/tmp_mc_ttt_{tile,x,o}_{tl,tr,bl,br}.png  (from tabletop/pieces.png)
 
 Referenced by:
 - assets/clubtopia/models/block/ttt_*.json  (repoint to clubtopia:block/ttt_* placeholders on removal)
