@@ -13,3 +13,4 @@ Referenced by:
 
 Original placeholder tiles still exist at assets/clubtopia/textures/block/ttt_*.png —
 reverting the model JSONs restores them instantly.
+- assets/clubtopia/textures/block/tmp_mc_c4_{empty,red,yellow}.png  (from tabletop/pieces.png)
