@@ -395,6 +395,33 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:clubtopia/ui/phone_settings.png",
+      "ascent": 19,
+      "height": 103,
+      "chars": [
+        "\u9201"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:clubtopia/ui/phone_games.png",
+      "ascent": 19,
+      "height": 103,
+      "chars": [
+        "\u9202"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:clubtopia/ui/phone_party.png",
+      "ascent": 19,
+      "height": 103,
+      "chars": [
+        "\u9203"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:clubtopia/ui/view_profile/theme_sprite.png",
       "ascent": -9,
       "height": 60,

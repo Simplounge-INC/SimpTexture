@@ -15,3 +15,4 @@ Original placeholder tiles still exist at assets/clubtopia/textures/block/ttt_*.
 reverting the model JSONs restores them instantly.
 - assets/clubtopia/textures/block/tmp_mc_c4_{empty,red,yellow}.png  (from tabletop/pieces.png)
 - `assets/minecraft/textures/clubtopia/ui/games_menu.png` — composed from Mineclub `ui/menu_titles/menu_titles.png` (GAMES MENU title), `games/tabletop/banner.png` (TTT + Connect 4 banners), and the 4slotuis panel chrome
+- `assets/minecraft/textures/clubtopia/ui/phone_{settings,games,party}.png` — composed from Mineclub `font/ascii.png` (pixel font) + `ui/mobile_phone/games.png` tiles + 4slotuis list-panel chrome
