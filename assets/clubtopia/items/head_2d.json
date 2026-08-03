@@ -1,0 +1,9 @@
+{
+ "model": {
+  "type": "minecraft:special",
+  "model": {
+   "type": "minecraft:player_head"
+  },
+  "base": "clubtopia:ui/head_2d"
+ }
+}
