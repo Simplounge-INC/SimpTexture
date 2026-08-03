@@ -404,6 +404,18 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:clubtopia/ui/phone_settings_states.png",
+      "ascent": 19,
+      "height": 103,
+      "chars": [
+        "\u9204\u9205",
+        "\u9206\u9207",
+        "\u9208\u9209",
+        "\u920a\u920b"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:clubtopia/ui/phone_games.png",
       "ascent": 19,
       "height": 103,
